@@ -1,3 +1,10 @@
 node_modules
 build
 *.bak
+/.idea/.gitignore
+/.idea/chapter-2.iml
+/.idea/jpa-buddy.xml
+/.idea/jsLibraryMappings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml

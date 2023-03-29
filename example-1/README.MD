@@ -4,6 +4,12 @@ Example number 1 from Chapter 2 of [Bootstrapping Microservices](https://www.boo
 
 You need Node.js installed to run this.
 
+node --version
+v18.5.0
+
+npm --version
+8.12.1
+
 Before running install dependencies:
 
     npm install

@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="start:dev_ch2_ex3" type="js.build_tools.npm">
+    <package-json value="$PROJECT_DIR$/chapter-2/example-3/package.json" />
+    <command value="run" />
+    <scripts>
+      <script value="start:dev" />
+    </scripts>
+    <node-interpreter value="project" />
+    <envs>
+      <env name="PORT" value="3000" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>
